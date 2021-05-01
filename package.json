@@ -1,0 +1,26 @@
+{
+  "name": "searchengine",
+  "version": "1.0.0",
+  "description": "Real-time Search Engine With Node, Vue, and ElasticSearch",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "vue-cli-service test:unit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/namratabafna/SearchEngine.git"
+  },
+  "keywords": [
+    "vue",
+    "elasticsearch",
+    "node"
+  ],
+  "author": "Namrata Bafna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/namratabafna/SearchEngine/issues"
+  },
+  "homepage": "https://github.com/namratabafna/SearchEngine#readme"
+}
